@@ -1,4 +1,13 @@
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]BEBES - SERIES[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/ZM453Rr/bebes-team.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/BEBES-SERIES</externallink>
+<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Conteudo em séries para Bebes. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]2 AOS 6 ANOS - SERIES[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/7GKh2SQ/2-6-anos-team.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/2-6-ANOS-SERIES</externallink>
