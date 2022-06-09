@@ -24,21 +24,3 @@
 <info>[COLOR red]|[/COLOR]- Conteudo para crianças de 7 aos 12 anos. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Disney Kids[/COLOR][COLOR yellow] ||[/COLOR]</name>
-<thumbnail>https://i.ibb.co/26xG9zp/disney-kids-team.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/DISNEY-KIDS</externallink>
-<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- Conteudo da disney para crianças -[COLOR white]|[/COLOR]</info>
-</channel>
-</channels>
-
-<channels>
-<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]Familia[/COLOR][COLOR yellow] ||[/COLOR]</name>
-<thumbnail>https://i.ibb.co/1vBrZCM/familia-team.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/FAMILIA-KIDS</externallink>
-<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- Conteudo para toda a familia e as crianças. -[COLOR white]|[/COLOR]</info>
-</channel>
-</channels>
