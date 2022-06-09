@@ -24,3 +24,12 @@
 <info>[COLOR red]|[/COLOR]- Conteudo para crianças de 7 aos 12 anos. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels>
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DAS ANTIGAS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/ssDTLVm/das-antigas.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/INFANTIL-IDADES/main/DAS-ANTIGAS</externallink>
+<fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Conteudos antigos para crianças. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
